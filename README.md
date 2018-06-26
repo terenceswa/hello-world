@@ -1,2 +1,4 @@
 # hello-world
-Just a test
+
+Yo, dis Kwagga hier.
+Die is die verandering van die bier-masjien.
